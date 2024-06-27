@@ -17,7 +17,8 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and a web 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/your-username/chess-game.git
+
 
    
 2. Go into the repository:
