@@ -31,7 +31,7 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and a web 
      
 
 🔗 Demo
-   [Click here ](https://multiplayerchess.netlify.app/) to see and play a demo of the game.
+   [Click here ](https://tipu30.github.io/Multiplayer-Chess/) to see and play a demo of the game.
 
 📫 Contact
 E-mail: tipukhan2315@gmail.com
