@@ -17,7 +17,7 @@ To clone and run this project, you'll need [Git](https://git-scm.com) and a web 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/chess-game.git
+   git clone https://github.com/Tipu30/Multiplayer-Chess.git
 
 
    
